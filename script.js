@@ -4,13 +4,14 @@
 //Cannot contain space or hyphen. 
 //declare each variable in a seperate line
 //first word should be lowercase and then all words after that starts with a capitalized letter, firstTest
+
+
+//variables
+let productItem = 'keyboard';
+let price = 200;
+let inStock = true;
+let selectedOption = null;
+//console logs
+console.log(productItem, price, inStock, selectedOption);
 console.log('script works');
-//main script
-//name test
-let name = 'Goonie';
-let lastName = 'Oh';
-console.log(name, lastName);
-//constant test
-const inflationRate = 0.3;
-inflationRate = 1;
-console.log(interestRate)
+
